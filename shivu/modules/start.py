@@ -36,7 +36,16 @@ async def start(update: Update, context: CallbackContext) -> None:
         caption = f"""
         ***Heyyyy...***
 
-***I am An Open Source Character Catcher Bot...​Add Me in Your group.. And I will send Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
+***┏━━━━━━━━━━━━━━━━━━━━━━━━━⧫
+✾ Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ 𝙕𝙖𝙣𝙜𝙚𝙩𝙨𝙪 𝙂𝙪𝙚𝙨𝙨 𝘽𝓞𝓣 Bᴏᴛ
+┗━━━━━━━━━━━━━━━━━━━━━━━━━⧫
+┏━━━━━━━━━━━━━━━━━━━━━━━━━⧫
+┠ ➻ I ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ғɪɴᴅ ʏᴏᴜʀ Wᴀɪғᴜ ᴏʀ Hᴜsʙᴀɴᴅᴏ
+┃        ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ.
+┠ ➻ Yᴏᴜ ᴄᴀɴ sᴇᴀʟ ᴛʜᴇᴍ ʙʏ /guess ᴄᴏᴍᴍᴀɴᴅ
+┃        ᴀɴᴅ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ʜᴀʀᴇᴍ.
+┗━━━━━━━━━━━━━━━━━━━━━━━━━⧫
+Tᴀᴘ ᴏɴ "Hᴇʟᴘ" ғᴏʀ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs.***
         """
         
         keyboard = [
