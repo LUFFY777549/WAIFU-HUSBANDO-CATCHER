@@ -4,7 +4,7 @@ class Config(object):
     # Get this value from my.telegram.org/apps
     OWNER_ID = "6596417062"
     sudo_users = "7576729648", "6596417062"
-    GROUP_ID = -1001992462505
+    GROUP_ID = -1002955024896
     TOKEN = "8288304784:AAH-UOflloHLYkwU7ji32Q9tx_7o1JYeQLQ"
     mongo_url = "mongodb+srv://sufyan532011:5042@auctionbot.5ms20.mongodb.net/?retryWrites=true&w=majority&appName=AuctionBot"
     PHOTO_URL = ["https://files.catbox.moe/n4sucx.jpg", "https://files.catbox.moe/n4sucx.jpg"]
